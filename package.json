@@ -1,0 +1,9 @@
+{
+  "name": "reqddos",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@upstash/redis": "^1.25.1",
+    "node-fetch": "^3.3.2"
+  }
+}
